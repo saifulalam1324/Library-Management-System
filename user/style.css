@@ -1,0 +1,88 @@
+.border1{
+    border: 1px;
+    border-radius: 25px;
+    height: 100ev;
+}
+.body{
+    background-color: lightsteelblue;
+}
+.boxback{
+    background-color:white;
+}
+.buttonback{
+    background-color:lightslategray;
+    color:white;
+}
+.head1{
+    color:white;
+    font-size: 120px;
+    margin-top: 15%;
+    
+}
+.head1:hover{
+    color: black;
+}
+.nav1{
+    background-color: lightsteelblue;
+    
+}
+.nav2{
+color: white;
+}
+#navbarNav a{
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 20px;
+}
+#navbarNav a:hover{
+    color: black;
+}
+.body1{
+    background-color: lightsteelblue;
+}
+.adminimg{
+    border: 1px;
+    border-radius: 50%;
+    width: 40px;
+    background-color: white;
+
+}
+.main{
+    border: 1px;
+    padding: 8px;
+    border-radius: 30px;
+    background-color: white;
+}
+.input{
+    background: transparent;
+    border: 0;
+    outline: 0px;
+    width: 370px;
+}
+.searchbutton{
+    border: 0;
+    outline: 0px;
+    background: transparent;
+    background-color: white;
+}
+.table1{
+    
+    background-color: white;
+    
+}
+.buttonback1{
+    background-color:lightseagreen;
+    color:white;
+}
+
+.card1{
+    height: 220px;
+    border: 1px;
+
+}
+.card2{
+    height: 90px;
+    border: 1px;
+
+}
